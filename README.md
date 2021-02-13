@@ -15,5 +15,5 @@ python guessNum.py
 -Guess as many times as it takes to hit the jackpot
 
 Hint: 
-Think of this exercise as a basic search operation, and play around with the efficiency of different search algorithms (I reccomend binary)
+Think of this exercise as a basic search operation, and play around with the efficiency of different search algorithms (I recommend binary)
 
